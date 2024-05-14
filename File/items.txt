@@ -1,0 +1,6 @@
+
+01;Rise;50
+02;Milk;60
+03;pilse;120
+04;Egg;10
+05;Potato;50
